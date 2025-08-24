@@ -16,9 +16,13 @@
 ---
 
 ## 🚀 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/vaishalisakole)
-- [GitHub](https://github.com/VaishaliSakole)
-- Email: vaishalisakole7@gmail.com
+
+<p align="left">
+<a href="https://linkedin.com/in/vaishalisakole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishalisakole" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vaishalisakole" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaishalisakole" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@vaishalisakole7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vaishalisakole7" height="30" width="40" /></a>
+
+</p>
 
 ---
 
